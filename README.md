@@ -1,4 +1,5 @@
-# AI-Nable: Breaking Barriers in Education with AWS Generative AI
+# AI-Nable: Breaking Barriers in Education with AWS Generative AI 
+**Team**: Anay Misra, Sanskriti, Anvesha, Saksham 
 
 ## 🎯 Problem Statement
 
